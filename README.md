@@ -1,0 +1,2 @@
+# Newdevops
+To learn Git
