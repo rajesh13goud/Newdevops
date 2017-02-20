@@ -1,0 +1,10 @@
+git push origin master
+
+=>configuring username and email id in the git before we perform commit username email must be configured it is mandatory.
+=>git  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+=> origin- is alias name of ur git repository URL, instead of giving the full directory
+=> master- it is a branch to which we r pushing our changes
+=> git pull--  to pull the data in repository
+git pull origin master-- pull takes latest changes in the remote gets that into the local and performs merge 
