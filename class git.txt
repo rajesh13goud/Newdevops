@@ -8,3 +8,30 @@ git push origin master
 => master- it is a branch to which we r pushing our changes
 => git pull--  to pull the data in repository
 git pull origin master-- pull takes latest changes in the remote gets that into the local and performs merge 
+
+=> git add-- from working area to stageing area
+=> git commit -m 'commit chnges' -- from staging area to local repository
+=> git push origin master-- from local repository to remote repo
+=> clone vs pull-- first time we used clone when we don't have the local repository
+=pull -- if any latest change in the remote we can use pull.
+=> push conflicts--
+If push operations fails if our local repository doesn't have the changes present in the remote to solve this issue we should use git pull, once merging is done we use git push.
+=> git fetch-- gets latest changes in the remote into the local repository and it won't do merge
+
+
+What is the diff bw pull and fetch? (IQ)
+
+=> Resolving conflicts when we perform merge?
+--If two developers modifying 
+
+
+
+
+
+
+
+=> fast forward merge- right now we hv a master branch with four commits(C1 C2 C3 C4)
+to fix a defect to create new branch defect-1234 from master in this branch we did two commits(C5 C6) and we completed our work fixing, so we should merge changes in the branch into the master.
+as of now master is still having C4 latest commit if we perform merge master gets point to C6. this is called fastforwardnmerge
+
+=> 
