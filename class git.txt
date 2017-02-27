@@ -35,3 +35,4 @@ to fix a defect to create new branch defect-1234 from master in this branch we d
 as of now master is still having C4 latest commit if we perform merge master gets point to C6. this is called fastforwardnmerge
 
 => 
+helloo today we dont have class!!!!
