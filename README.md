@@ -1,3 +1,24 @@
 # Newdevops
 To learn Git
-heloo
+jdk
+dsds
+sd
+
+
+eloo
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+wq!
+
